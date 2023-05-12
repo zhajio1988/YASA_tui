@@ -1,0 +1,54 @@
+ContentSwitcher {
+    background: $panel;
+    border: dashed $accent;
+    width: 100%;
+    height: 1fr;
+}
+
+RegrSummary {
+    content-align: center middle;
+    text-opacity: 100%;
+    text-style: bold;
+    height: 1;
+}
+
+RegrCaseStatus.-active {
+    visibility: visible;
+}
+
+RegrCaseStatus.-deactive {
+    visibility: hidden;
+}
+
+RegrSummary.-active {
+    visibility: visible;
+}
+
+RegrSummary.-deactive {
+    visibility: hidden;
+}
+
+RegrCmd {
+}
+
+/*
+DataTable.-resize {
+    width: 100%;
+    height: auto;
+    max-height: 50%;
+}
+*/
+
+DataTable.-active {
+    visibility: visible;
+}
+
+DataTable.-deactive {
+    visibility: hidden;
+}
+
+DataTable:focus {
+    width: 100%;
+    height: auto;
+    border: round $accent;
+}

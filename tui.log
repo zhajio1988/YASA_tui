@@ -1,0 +1,61 @@
+2023-05-12 10:22:12,270 - /ic/app/c7/miniconda/envs/python3.8/lib/python3.8/asyncio/selector_events.py[line:59] - DEBUG: Using selector: EpollSelector
+2023-05-12 10:22:12,345 - YASA_tui.py[line:151] - DEBUG: debug point table id1 None
+2023-05-12 10:22:13,735 - YASA_tui.py[line:151] - DEBUG: debug point table id1 None
+2023-05-12 10:23:16,503 - /ic/app/c7/miniconda/envs/python3.8/lib/python3.8/asyncio/selector_events.py[line:59] - DEBUG: Using selector: EpollSelector
+2023-05-12 10:23:16,576 - YASA_tui.py[line:151] - DEBUG: debug point table id1 None
+2023-05-12 10:23:16,579 - YASA_tui.py[line:151] - DEBUG: debug point table id1 None
+2023-05-12 10:23:21,215 - YASA_tui.py[line:178] - DEBUG: debug point table row0 0
+2023-05-12 10:23:21,215 - YASA_tui.py[line:179] - DEBUG: debug point table row1 0
+2023-05-12 10:23:21,215 - YASA_tui.py[line:180] - DEBUG: debug point table row_id 8170d32c0fcae95d0d27130ec7c2a02d
+2023-05-12 10:23:21,266 - YASA_tui.py[line:92] - DEBUG: debug point table id0 regrCase_8170d32c0fcae95d0d27130ec7c2a02d_1
+2023-05-12 10:23:22,349 - YASA_tui.py[line:63] - DEBUG: debug point vars0 16 0 0 16 16
+2023-05-12 10:23:22,350 - YASA_tui.py[line:69] - DEBUG: debug point vars1 16 0 0 16 16
+2023-05-12 10:23:22,350 - YASA_tui.py[line:70] - DEBUG: debug point stop
+2023-05-12 10:23:25,971 - YASA_tui.py[line:178] - DEBUG: debug point table row0 19
+2023-05-12 10:23:25,971 - YASA_tui.py[line:179] - DEBUG: debug point table row1 19
+2023-05-12 10:23:25,972 - YASA_tui.py[line:180] - DEBUG: debug point table row_id 380a2dd0c84eb29b15e03a7e1bfa6a69
+2023-05-12 10:23:26,026 - YASA_tui.py[line:92] - DEBUG: debug point table id0 regrCase_380a2dd0c84eb29b15e03a7e1bfa6a69_1
+2023-05-12 10:23:27,118 - YASA_tui.py[line:63] - DEBUG: debug point vars0 14 0 0 14 14
+2023-05-12 10:23:27,118 - YASA_tui.py[line:69] - DEBUG: debug point vars1 14 0 0 14 14
+2023-05-12 10:23:27,118 - YASA_tui.py[line:70] - DEBUG: debug point stop
+2023-05-12 10:24:46,138 - /ic/app/c7/miniconda/envs/python3.8/lib/python3.8/asyncio/selector_events.py[line:59] - DEBUG: Using selector: EpollSelector
+2023-05-12 10:24:46,211 - YASA_tui.py[line:151] - DEBUG: debug point table id1 None
+2023-05-12 10:24:46,214 - YASA_tui.py[line:151] - DEBUG: debug point table id1 None
+2023-05-12 10:24:50,516 - YASA_tui.py[line:178] - DEBUG: debug point table row0 0
+2023-05-12 10:24:50,516 - YASA_tui.py[line:179] - DEBUG: debug point table row1 0
+2023-05-12 10:24:50,516 - YASA_tui.py[line:180] - DEBUG: debug point table row_id 8170d32c0fcae95d0d27130ec7c2a02d
+2023-05-12 10:24:50,567 - YASA_tui.py[line:92] - DEBUG: debug point table id0 regrCase_8170d32c0fcae95d0d27130ec7c2a02d_1
+2023-05-12 10:24:51,648 - YASA_tui.py[line:63] - DEBUG: debug point vars0 16 0 0 16 16
+2023-05-12 10:24:51,648 - YASA_tui.py[line:69] - DEBUG: debug point vars1 16 0 0 16 16
+2023-05-12 10:24:51,649 - YASA_tui.py[line:70] - DEBUG: debug point stop
+2023-05-12 10:24:57,325 - YASA_tui.py[line:178] - DEBUG: debug point table row0 18
+2023-05-12 10:24:57,325 - YASA_tui.py[line:179] - DEBUG: debug point table row1 18
+2023-05-12 10:24:57,325 - YASA_tui.py[line:180] - DEBUG: debug point table row_id ad9972db482652df257891ce7141b7a9
+2023-05-12 10:24:57,383 - YASA_tui.py[line:92] - DEBUG: debug point table id0 regrCase_ad9972db482652df257891ce7141b7a9_1
+2023-05-12 10:24:58,474 - YASA_tui.py[line:63] - DEBUG: debug point vars0 15 0 1 16 16
+2023-05-12 10:24:58,474 - YASA_tui.py[line:69] - DEBUG: debug point vars1 15 0 1 16 16
+2023-05-12 10:24:58,474 - YASA_tui.py[line:70] - DEBUG: debug point stop
+2023-05-12 10:25:02,053 - YASA_tui.py[line:178] - DEBUG: debug point table row0 19
+2023-05-12 10:25:02,053 - YASA_tui.py[line:179] - DEBUG: debug point table row1 19
+2023-05-12 10:25:02,053 - YASA_tui.py[line:180] - DEBUG: debug point table row_id 380a2dd0c84eb29b15e03a7e1bfa6a69
+2023-05-12 10:25:02,108 - YASA_tui.py[line:92] - DEBUG: debug point table id0 regrCase_380a2dd0c84eb29b15e03a7e1bfa6a69_1
+2023-05-12 10:25:03,187 - YASA_tui.py[line:63] - DEBUG: debug point vars0 14 0 0 14 14
+2023-05-12 10:25:03,188 - YASA_tui.py[line:69] - DEBUG: debug point vars1 14 0 0 14 14
+2023-05-12 10:25:03,188 - YASA_tui.py[line:70] - DEBUG: debug point stop
+2023-05-12 10:25:07,116 - YASA_tui.py[line:178] - DEBUG: debug point table row0 18
+2023-05-12 10:25:07,116 - YASA_tui.py[line:179] - DEBUG: debug point table row1 18
+2023-05-12 10:25:07,116 - YASA_tui.py[line:180] - DEBUG: debug point table row_id ad9972db482652df257891ce7141b7a9
+2023-05-12 10:25:07,174 - YASA_tui.py[line:92] - DEBUG: debug point table id0 regrCase_ad9972db482652df257891ce7141b7a9_2
+2023-05-12 10:25:08,252 - YASA_tui.py[line:63] - DEBUG: debug point vars0 15 0 1 16 16
+2023-05-12 10:25:08,252 - YASA_tui.py[line:69] - DEBUG: debug point vars1 15 0 1 16 16
+2023-05-12 10:25:08,252 - YASA_tui.py[line:70] - DEBUG: debug point stop
+2023-05-12 10:44:05,627 - /ic/app/c7/miniconda/envs/python3.8/lib/python3.8/asyncio/selector_events.py[line:59] - DEBUG: Using selector: EpollSelector
+2023-05-12 10:44:05,701 - YASA_tui.py[line:151] - DEBUG: debug point table id1 None
+2023-05-12 10:44:05,704 - YASA_tui.py[line:151] - DEBUG: debug point table id1 None
+2023-05-12 10:44:14,746 - YASA_tui.py[line:178] - DEBUG: debug point table row0 0
+2023-05-12 10:44:14,747 - YASA_tui.py[line:179] - DEBUG: debug point table row1 0
+2023-05-12 10:44:14,747 - YASA_tui.py[line:180] - DEBUG: debug point table row_id 8170d32c0fcae95d0d27130ec7c2a02d
+2023-05-12 10:44:14,798 - YASA_tui.py[line:92] - DEBUG: debug point table id0 regrCase_8170d32c0fcae95d0d27130ec7c2a02d_1
+2023-05-12 10:44:15,887 - YASA_tui.py[line:63] - DEBUG: debug point vars0 16 0 0 16 16
+2023-05-12 10:44:15,887 - YASA_tui.py[line:69] - DEBUG: debug point vars1 16 0 0 16 16
+2023-05-12 10:44:15,887 - YASA_tui.py[line:70] - DEBUG: debug point stop
